@@ -1,3 +1,11 @@
+"""
+@ASSESSME.USERID: username
+@ASSESSME.AUTHOR: name
+@ASSESSME.DESCRIPTION: Mini Practicum 9
+@ASSESSME.ANALYZE: YES
+"""
+
+
 ALPHABET = 'abcdefghijklmnopqrstuvwxyz'
 
 '''
